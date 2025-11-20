@@ -1,3 +1,3 @@
-# @frida/url
+# @plawnekjx/url
 
-Frida-optimized ESM fork of https://github.com/defunctzombie/node-url.
+Plawnekjx-optimized ESM fork of https://github.com/defunctzombie/node-url.

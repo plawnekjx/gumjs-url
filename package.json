@@ -1,6 +1,6 @@
 {
-  "name": "@frida/url",
-  "description": "Node.js's url module for Frida",
+  "name": "@plawnekjx/url",
+  "description": "Node.js's url module for Plawnekjx",
   "version": "1.0.2",
   "publishConfig": {
     "access": "public"
@@ -18,11 +18,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-url.git"
+    "url": "https://github.com/plawnekjx/gumjs-url.git"
   },
   "license": "MIT",
   "dependencies": {
-    "@frida/punycode": "^3.0.0",
-    "@frida/querystring": "^1.0.0"
+    "@plawnekjx/punycode": "^3.0.0",
+    "@plawnekjx/querystring": "^1.0.0"
   }
 }
